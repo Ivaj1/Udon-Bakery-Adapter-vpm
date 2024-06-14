@@ -1,7 +1,7 @@
 {
     "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "id":"com.ivaj.udonbakeryadapter",
+    "url":"https://github.com/Ivaj1/Udon-Bakery-Adapter/blob/33940c0e0f2ffcf9883d5feb73434f4020fafd5a/package.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
